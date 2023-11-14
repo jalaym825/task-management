@@ -1,0 +1,23 @@
+.main-heading {
+  color: rgb(204, 18, 18);
+  font-size: 2rem;
+}
+
+.underline {
+  width: 6rem;
+  height: 0.2rem;
+  background-color: #f76c2f;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none !important;
+}
+
+.footer a:hover {
+  color: grey;
+}
+
+.my-dropdown-toggle::after {
+  content: none;
+}
